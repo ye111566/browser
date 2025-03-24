@@ -13,7 +13,7 @@
             "browser"
         ]
     },
-    "asset_url": "https://github.com/ye111566/browser/releases/download/5.0.0/browser5.0.zip",
+    "asset_url": "https://github.com/ye111566/browser/releases/download/v5.0.0/browser5.0.zip",
     "prerequisites": {
         "github.com/LiteLDev/LeviLamina": "1.1.x"
     },
