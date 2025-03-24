@@ -15,6 +15,10 @@
   "variants": [
     {
       "platform": "win-x64",
+      "dependencies": {
+        "github.com/LiteLDev/LeviLamina": ">=1.1.1",
+        "github.com/LiteLDev/LegacyScriptEngine": ">=0.10.3"
+      },
       "assets": [
         {
           "type": "zip",
