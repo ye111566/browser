@@ -15,9 +15,6 @@
   "variants": [
     {
       "platform": "win-x64",
-      "dependencies": {
-        "github.com/LiteLDev/LeviLamina": ">=1.0.0"
-      },
       "assets": [
         {
           "type": "zip",
