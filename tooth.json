@@ -4,7 +4,7 @@
     "tooth": "github.com/ye111566/browser",
     "version": "5.0.0",
     "info": {
-        "name": "CustomMap",
+        "name": "browser",
         "description": "use the browser in the minecraft bedrock edition!",
         "source": "github.com/ye111566/browser",
         "author": "ye111566",
