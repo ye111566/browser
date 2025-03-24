@@ -1,29 +1,31 @@
 {
-    "format_version": 2,
-    "tooth": "github.com/ye111566/browser",
-    "version": "5.0.0",
-    "info": {
-        "name": "browser",
-        "description": "use the browser in the minecraft bedrock edition!",
-        "source": "github.com/ye111566/browser",
-        "author": "ye111566",
-        "tags": [
-            "platform:levilamina",
-            "type:mod",
-            "browser"
-        ]
-    },
-    "asset_url": "https://github.com/ye111566/browser/releases/download/v5.0.0/browser5.0.zip",
-    "prerequisites": {
-        "github.com/LiteLDev/LeviLamina": "1.1.x"
-    },
-    "files": {
-        "place": [
-            {
-                "src": "browser/*",
-                "dest": "plugins/browser"
-            }
-        ]
+  "format_version": 3,
+  "format_uuid": "289f771f-2c9a-4d73-9f3f-8492495a924d",
+  "tooth": "github.com/ye111566/browser",
+  "version": "5.0.0",
+  "info": {
+    "name": "browser",
+    "description": "browser for bedrock edition",
+    "tags": [
+      "platform:levilamina",
+      "type:mod"
+    ],
+    "avatar_url": "https://www.minebbs.com/data/resource_icons/10/10936.jpg?1742231017"
+  },
+  "variants": [
+    {
+      "platform": "win-x64",
+      "dependencies": {
+        "github.com/LiteLDev/LeviLamina": "1.1.1"
+      },
+      "assets": [
+        {
+          "type": "zip",
+          "urls": [
+            "https://github.com/ye111566/browser/releases/download/v5.0.0/browser5.0.zip"
+          ]
+        }
+      ]
     }
+  ]
 }
-
