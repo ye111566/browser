@@ -27,7 +27,7 @@
           ],
           "placements": [
             {
-              "type": "dir",
+              "type": "file",
               "src": "",
               "dest": "plugins/"
             }
