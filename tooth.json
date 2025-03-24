@@ -1,6 +1,5 @@
 {
-    "format_version": 3,
-    "format_uuid":"289f771f-2c9a-4d73-9f3f-8492495a924d",
+    "format_version": 2,
     "tooth": "github.com/ye111566/browser",
     "version": "5.0.0",
     "info": {
@@ -14,12 +13,9 @@
             "browser"
         ]
     },
-    "asset_url": "https://github.com/ye111566/browser/releases/download/5.0.0/browser5.0.zip",
-    "dependencies": {
-        "github.com/LiteLDev/LegacyRemoteCall": ">=0.9.0"
-    },
+    "asset_url": "https://github.com/ye111566/browser/releases/download/v5.0.0/browser5.0.zip",
     "prerequisites": {
-        "github.com/LiteLDev/LeviLamina": ">=1.0.0"
+        "github.com/LiteLDev/LeviLamina": "1.1.x"
     },
     "files": {
         "place": [
@@ -30,3 +26,4 @@
         ]
     }
 }
+
