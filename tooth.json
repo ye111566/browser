@@ -29,7 +29,7 @@
             {
               "type": "dir",
               "src": "browser/",
-              "dest": "plugins/browser/"
+              "dest": "plugins/"
             }
           ]
         }
